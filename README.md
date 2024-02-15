@@ -4,13 +4,6 @@
 
 
 
-### Sourcerer
-<a href="https://sourcerer.io/spidy20"><img src="https://avatars2.githubusercontent.com/u/42056100?v=4" height="50px" width="50px" alt=""/></a>
-
-<img src="https://github.com/Spidy20/Fake_News_Detection/blob/master/fn.jpg">
-
-## [See the Tutorial of this Project](https://youtu.be/GS_ylghUtLQ)
-
 ## Usage:-
 
 - Clone my repository.
@@ -21,10 +14,6 @@
 - If you want to build your model with the some changes, you can check the `Fake_News_Detection.ipynb`.
 - You can check web app is working fine. Sometimes predictions may be wrong.
 
-## Screenshots
-
-<img src="https://github.com/Spidy20/Fake_News_Detection/blob/master/s1.PNG">
-<img src="https://github.com/Spidy20/Fake_News_Detection/blob/master/s2.PNG">
 
 ## Note
 - This project is just for learning purpose, don't think, it can do work in real time, because model was trained on historic & limited data.
